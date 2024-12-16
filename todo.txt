@@ -1,0 +1,2 @@
+- Add interface with tkinter (tk) and customtkinter (ctk);
+- Add functionality to convert excel sheet into dataframe;
